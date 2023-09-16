@@ -12,8 +12,8 @@ Bike store Database contains the sales data of a regional Bike brand, which has 
 
 The dashboard created gives an overall glimpse of how the company is performing overall and in different cities, along with some trends to help in their decision making process.
 
-# Dashboard Screenshot
+## Dashboard Screenshot
 
-## PowerBI
+### PowerBI
 
 ![Power BI](https://github.com/aditigupta678/BikeStore_Database/blob/main/Bike%20Store%20Database%20Power%20BI%20Dashboard%20Screenshot_1.png)
